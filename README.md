@@ -75,10 +75,9 @@ df_pca_predictions.hvplot.scatter(
 ![pca scatterplot](https://github.com/acosta109/CryptoClustering/assets/119609975/a14b6546-61ae-4a84-bb5d-d03e6baa7da8)
 
 
-Since we have all the charts necessary for analysis, we create two composite charts to analyse our cryptocurrency data. We discover the 
+Since we have all the charts necessary for analysis, we created two composite charts to analyse our cryptocurrency data. We discover the 
 elbow charts have similar behaviour, but the vertical shift occurring when we perform the PCA analysis. Similarly, the composite scatterplot 
 chart shows both analysises have similar behaviour there's a shift. 
 
-![composite elbow](https://github.com/acosta109/CryptoClustering/assets/119609975/38d563b2-3888-447a-a6be-99334e3f3c1f)
-![composite scatterplot](https://github.com/acosta109/CryptoClustering/assets/119609975/c5afc4fa-3235-4485-a377-7bc2ce58d4b0)
+
 
